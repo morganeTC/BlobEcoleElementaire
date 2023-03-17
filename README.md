@@ -3,6 +3,14 @@ initiation à la démarche scientifique avec travaux pratique sur le blob. Séan
 
 <img src="images/4_classe.jpg" alt="boites" width="200"/>
 
+> Auteurs : Morgane Thomas-Chollier (ENS-PSL), Benjamin Bardiaux (CNRS)
+> Créé le : 17/03/2023
+> Dernière version : 2023-03-03 v1.0
+> Licence : CC BY-NC 4.0
+> Comment le citer : Thomas-Chollier, Bardiaux. 2023. BlobEcoleElementaire. https://github.com/pmartinolli/MonTPenCC.
+> Séances effectuées à : Ecole Velpeau, Antony, France.
+
+
 ## Objectif et déroulement 
 
 Nous proposons deux types de séances:
