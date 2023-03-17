@@ -1,25 +1,42 @@
 # BlobEcoleElementaire
-initiation à la démarche scientifique avec travaux pratique sur le blob
+initiation à la démarche scientifique avec travaux pratique sur le blob. Séances effectuées en CM1 et CM2.
 
 ## Objectif et déroulement 
+
+Nous proposons deux types de séances:
+* première découverte du blob (niveau CM1-CM2)
+* mesure expérimentale du périmètre et de l'aire du blob (niveau CM2)
+
+La séance 1 a pour objectif de découvrir la démarche scientifique et la recherche en biologie. 
+* le blob est un organisme vivant dans son milieu naturel
+* le blob est étudiable en laboratoire, dans un milieu reproductible 
+* poser une question relative à l'effet de substances sur le blob
+* mettre en place un protocole expérimental simple pour répondre à cette question
+* mettre en place une expérience contrôle
+* observer la reaction/croissance du blob vis-à-vis de la substance
+* comparer à l'experience contrôle et en tirer des conlusions
+
+La séance 1 comporte aussi une présentation de l'expérience de sciences participative du CNRS "« Derrière le blob, la recherche ». 
+ 
 
 ## Matériel 
 
 ### en amont de la séance
-* slérotes (blob séché)
+* sclérotes (blob séché)
 * bôites de pétri (nombre ?)
 * agar-agar (en grandes surfaces ou magasin bio)
-* flocons d'avoine ((en grandes surfaces ou magasin de vrac, éviter les bio)
+* flocons d'avoine (en grandes surfaces ou magasin de vrac, éviter les bio)
 * bouchon de bouteille d'eau ou de soda
 * boite en carton (qui constituera la blobhouse)
 * thermomètre
+* couteau
 
 ### pendant la séance
 * idéalement, prévoir un tableau de type TNI pour diffuser le diaporama
 
 
 ## Réveil des blobs
-* 10 à 15 jours avant la séance, réveiller les sclérotes
+* 15 à 20 jours avant la séance, réveiller les sclérotes
 * Pour cela il faut préparer le lieu de vie du blob (= "couler des boîtes"). Pour préparer ce fond de gélose à couler dans la boîte :
 	-	Mettre 2g d’agar-agar (en général cela correspond à un sachet) dans 250 mL d’eau froide dans une casserole
 	-	Porter à ébullition
@@ -29,14 +46,19 @@ initiation à la démarche scientifique avec travaux pratique sur le blob
 
 <img src="images/1_couler_boites.jpeg" alt="boites" width="200"/>
 	
-* Entamer le réveil des blobs en suivant ce protocole video jusqu'à 3min20 (ne pas tenir compte des aspects Experimental et Contrôle, préparer 4 à 6 boîtes pour anticper que certains sclérotes ne se réveilleront pas) : https://www.youtube.com/watch?v=OM3cuu0WrZo
+* Entamer le réveil des blobs en suivant ce protocole video jusqu'à 3min20 (ne pas tenir compte des aspects Experimental et Contrôle, préparer 4 à 6 boîtes en anticipant que certains sclérotes ne se réveilleront pas) : https://www.youtube.com/watch?v=OM3cuu0WrZo
 
-<img src="images/2_reveil.jpeg" alt="boites" width="200"/>
+<img src="images/2_reveil.jpg" alt="boites" width="200"/>
 
 
-* Placer les boites dans la blobhouse, à l'abri de la lumière et dans un endroit avec une température clémente (22° à 25°)
+* Placer les boites dans la blobhouse, à l'abri de la lumière et dans un endroit avec une température clémente (22° à 25°, notre souche s'est reveillée plus rapidement à vers 24° que vers 21-22°)
 
 <img src="images/3_blobhouse.jpg" alt="boites" width="200"/>
 
-* Le lendemain (ou le surlendemain si les , poursuivre avec la 
+* Le lendemain (ou le surlendemain si le blob n'a pas encore envahi toute l'avoine), poursuivre avec la phase de croissance du blob et augmentation du nombre de boîte (vidéo à partir de 3min20) : https://www.youtube.com/watch?v=OM3cuu0WrZo
 
+Des questions ? [la FAQ du CNRS](https://www.cnrs.fr/sites/default/files/download-file/BlobCNRS_FAQ_1.pdf)
+
+## Obtenir assez de boîtes pour la séance
+
+Nous vison d'obtenir XXX boîtes pour 
