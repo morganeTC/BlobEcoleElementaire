@@ -1,23 +1,37 @@
 # BlobEcoleElementaire
 initiation à la démarche scientifique avec travaux pratique sur le blob. Séances effectuées en CM1 et CM2.
 
+<img src="images/4_classe.jpg" alt="boites" width="200"/>
+
 ## Objectif et déroulement 
 
 Nous proposons deux types de séances:
 * première découverte du blob (niveau CM1-CM2)
 * mesure expérimentale du périmètre et de l'aire du blob (niveau CM2)
 
-La séance 1 a pour objectif de découvrir la démarche scientifique et la recherche en biologie. 
+Les deux séances ont en commun la découverte du blob et de la recherche en biologie :
 * le blob est un organisme vivant dans son milieu naturel
 * le blob est étudiable en laboratoire, dans un milieu reproductible 
+* présentation de l'expérience de sciences participative du CNRS "« Derrière le blob, la recherche ». 
+
+**La séance 1** a pour objectif de découvrir la démarche scientifique. 
+
 * poser une question relative à l'effet de substances sur le blob
 * mettre en place un protocole expérimental simple pour répondre à cette question
 * mettre en place une expérience contrôle
 * observer la reaction/croissance du blob vis-à-vis de la substance
 * comparer à l'experience contrôle et en tirer des conlusions
 
-La séance 1 comporte aussi une présentation de l'expérience de sciences participative du CNRS "« Derrière le blob, la recherche ». 
- 
+<img src="images/5_protocoles.jpg" alt="boites" width="200"/>
+
+**La séance 2** a pour objectif de découvrir la notion de mesure quantitative pour comparer différentes conditions expérimentales. 
+
+* obtention de la donnée expérimentale (photo de blob avec règle)
+* mesure du périmètre/aire du blob via un site web dédié
+* ordonner les blobs selon leur périmètre
+* associer les blobs à leur condition de culture
+* tirer des conlusions
+
 
 ## Matériel 
 
@@ -31,8 +45,16 @@ La séance 1 comporte aussi une présentation de l'expérience de sciences parti
 * thermomètre
 * couteau
 
-### pendant la séance
+### pendant les séances
 * idéalement, prévoir un tableau de type TNI pour diffuser le diaporama
+
+### Séance 1
+*
+
+### Séance 2
+* tablettes tactiles
+* règle graduée
+
 
 
 ## Réveil des blobs
