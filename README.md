@@ -1,5 +1,5 @@
 # BlobEcoleElementaire
-initiation à la démarche scientifique avec travaux pratique sur le blob. Séances effectuées en CM1 et CM2.
+Initiation à la démarche scientifique avec travaux pratique sur le blob. Séances effectuées en CM1 et CM2.
 
 <img src="images/4_classe.jpg" alt="boites" width="200"/>
 
@@ -10,7 +10,7 @@ initiation à la démarche scientifique avec travaux pratique sur le blob. Séan
 > Comment le citer : Thomas-Chollier, Bardiaux. 2023. BlobEcoleElementaire. https://github.com/morganeTC/BlobEcoleElementaire. <br/>
 > Séances effectuées à : Ecole Velpeau, Antony, France.
 
-**Table of content:**
+**Liens rapides:**
  - [Objectif et déroulement](#item-one)
  - [Matériel](#item-two)
  - [Réveil des blobs](#item-three)
@@ -45,20 +45,22 @@ Les deux séances ont en commun la découverte du blob et de la recherche en bio
 * associer les blobs à leur condition de culture
 * tirer des conlusions
 
-La séance 1 est prévue pour 30 élèves (15 binômes), avec une version des documents adaptée pour 6 binômes.
+<img src="images/7_seance2.jpg" alt="boites" width="200"/>
 
-La séance 1 est prévue pour 14 élèves (7 binômes).
+Chaque séance dure 1h15. La  séance 2 peut avoir une partie commune plus courte pour laisser plus de temps à la pratique.
+La séance 1 est prévue pour 30 élèves (15 binômes), avec une version des documents adaptée pour 6 binômes.
+La séance 2 est prévue pour 14 élèves (7 binômes).
 
 <a id="item-two"></a>
 ## Matériel 
 
-### pour les blobs, en amont de la séance
-* sclérotes (blob séché) ou blob
+### Elever les blobs, en amont de la séance
+* sclérotes (blob séché) ou blob déjà réveillé
 * bôites de pétri
 * agar-agar (en grandes surfaces ou magasin bio)
 * flocons d'avoine (en grandes surfaces ou magasin de vrac, éviter les bio)
-* bouchon de bouteille d'eau ou de soda
-* boite en carton (qui constituera la blobhouse)
+* bouchon de bouteille d'eau ou de soda 
+* boite en carton (qui constituera la "blobhouse")
 * thermomètre
 * couteau
 * stylos de type feutre permanents fins pour écrire sur les boîtes
@@ -78,26 +80,41 @@ La séance 1 est prévue pour 14 élèves (7 binômes).
 #### séance 2
 * document "3ter-Conditions_boites_explo" en 1 exemplaire enseignant
 * document "6-CM2_fiche" en 1 exemplaire enseignant
+* document "9_protocole_CM2" en 14 exemplaires A4
 
-### Pendant les séances
+### Matériel pour les séances
 
 #### commun aux 2 séances
-* idéalement, prévoir un tableau de type TNI pour diffuser le diaporama
+* idéalement, prévoir un tableau de type TNI ou un videoprojecteur pour diffuser le diaporama. A défaut, la présentation du blob peut se faire à l'oral sans support visuel.
 * 1 boîte en carton (qui constituera la blobhouse)
 
+<img src="images/8_TNI.jpg" alt="boites" width="200"/>
 
 ### Séance 1
 * feutres permanents fins (pour écrire sur les boîtes de pétri)
-* boîtes de pétri avec gélose déjà coulée (15 boites dont 2 labyrinthes en lego + 1 au cas où)
+* boîtes de pétri avec gélose déjà coulée (15 boites dont 2 labyrinthes en lego + 1 de démo)
 * boîtes avec blobs qui couvre la boîte (5 boites + 1 au cas où)
-* couteaux ou cuillères en bambou ou plastique pour manipuler le blob
+* couteaux ou cuillères en bambou ou plastique pour couper le blob
+* sac en plastique ou récipient pour stocker les couteaux après utilisation
 * dans de petits contenants : avoine, chocolat, sel
+* petites cuillères pour se servir dans les contenants
+* optionel (mais pratique) : plateaux
+* optionel : feuille noir et loupe
+* optionel : sclérotes
+* optionel : mouchoirs
+
+<img src="images/10_materiel_seance1.jpg" alt="boites" width="200"/>
+<img src="images/9_loupe.jpg" alt="boites" width="200"/>
 
 
 ### Séance 2
 * tablettes tactiles
-* règle graduée
+* règle graduée des élèves
+* stylos des élèves
+* feuilles noires, 7 au format A5
 
+<img src="images/11_materiel_seance2.jpg" alt="boites" width="200"/>
+<img src="images/12_tablette.jpg" alt="boites" width="200"/>
 
 <a id="item-three"></a>
 ## Réveil des blobs
@@ -126,7 +143,9 @@ Des questions ? [la FAQ du CNRS](https://www.cnrs.fr/sites/default/files/downloa
 
 ## Obtenir les boîtes de blob pour la séance 1
 
-Nous prévoyons 6 boîtes de blobs pour la séance, et 2 boîtes pour conserver le blob.
+Nous prévoyons 6 boîtes de blobs pour la séance, et 2 boîtes pour conserver le blob. Optionel : un blob en "exploration".
+
+<img src="images/6_blob.png" alt="boites" width="200"/>
 
 ==> ajouter des infos sur la croissance des blobs
 
@@ -140,7 +159,16 @@ Nous prévoyons 6 boîtes de blobs pour la séance, et 2 boîtes pour conserver 
 
 ### Partie commune
 * distribuer le document "carte d'identité du blob"
+* montrer le diaporama
 
 
 ### Partie spécifique
 * indiquer le prénom des élèves sur la fiche "3-boites_prenoms" pour centraliser l'association n°boîtes et élèves
+
+
+## Préparer les boîtes exploration pour la séance 2
+
+18h avant la séance, préparer 4 boîtes "exploration" à partir d'une boîte de blob:
+* à l'aide du bouchon extraire un rond de blob
+* le déposer bien au centre de la boite
+* refermer la boîte et la remettre dans la blobhouse
