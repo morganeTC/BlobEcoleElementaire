@@ -54,16 +54,16 @@ La séance 2 est prévue pour 14 élèves (7 binômes).
 <a id="item-two"></a>
 ## Matériel 
 
-### Elever les blobs, en amont de la séance
+### Matériel pour élever les blobs, en amont de la séance
 * sclérotes (blob séché) ou blob déjà réveillé
 * bôites de pétri
 * agar-agar (en grandes surfaces ou magasin bio)
 * flocons d'avoine (en grandes surfaces ou magasin de vrac, éviter les bio)
 * bouchon de bouteille d'eau ou de soda 
 * boite en carton (qui constituera la "blobhouse")
-* thermomètre
 * couteau
 * stylos de type feutre permanents fins pour écrire sur les boîtes
+* optionel : thermomètre
 
 
 ### A imprimer
@@ -143,7 +143,7 @@ Des questions ? [la FAQ du CNRS](https://www.cnrs.fr/sites/default/files/downloa
 
 ## Obtenir les boîtes de blob pour la séance 1
 
-Nous prévoyons 6 boîtes de blobs pour la séance, et 2 boîtes pour conserver le blob. Optionel : un blob en "exploration".
+Nous prévoyons 6 boîtes de blobs pour la séance, et 2 boîtes à garder (non utilisées pour la séance) afin de conserver le blob. Optionel : un blob en "exploration" (joli à observer).
 
 <img src="images/6_blob.png" alt="boites" width="200"/>
 
