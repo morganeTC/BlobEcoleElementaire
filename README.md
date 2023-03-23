@@ -5,7 +5,7 @@ Initiation à la démarche scientifique avec travaux pratique sur le blob. Séan
 
 > Auteurs : Morgane Thomas-Chollier (ENS-PSL), Benjamin Bardiaux (CNRS) <br/>
 > Créé le : 17/03/2023 <br/>
-> Dernière version : 2023-03-03 v1.0 <br/>
+> Dernière version : 2023-03-23 v1.0 <br/>
 > Licence : CC BY-NC 4.0 <br/>
 > Comment le citer : Thomas-Chollier, Bardiaux. 2023. BlobEcoleElementaire. https://github.com/morganeTC/BlobEcoleElementaire. <br/>
 > Séances effectuées à : Ecole Velpeau, Antony, France.
@@ -14,6 +14,7 @@ Initiation à la démarche scientifique avec travaux pratique sur le blob. Séan
  - [Objectif et déroulement](#item-one)
  - [Matériel](#item-two)
  - [Réveil des blobs](#item-three)
+ - [Séance 1](#item-four)
 
 <a id="item-one"></a>
 ## Objectif et déroulement 
@@ -141,8 +142,11 @@ La séance 2 est prévue pour 14 élèves (7 binômes).
 
 Des questions ? [la FAQ du CNRS](https://www.cnrs.fr/sites/default/files/download-file/BlobCNRS_FAQ_1.pdf)
 
-## Obtenir les boîtes de blob pour la séance 1
+<a id="item-four"></a>
 
+# Séance 1
+
+## Obtenir les boîtes de blob pour la séance 1
 Nous prévoyons 6 boîtes de blobs pour la séance, et 2 boîtes à garder (non utilisées pour la séance) afin de conserver le blob. Optionel : un blob en "exploration" (joli à observer).
 
 <img src="images/6_blob.png" alt="boites" width="200"/>
@@ -158,13 +162,14 @@ Nous prévoyons 6 boîtes de blobs pour la séance, et 2 boîtes à garder (non 
 ## Déroulement de la séance 1
 
 ### Partie commune
+* présentation avec le diaporama (30min environ) ou présentation orale sans support 
 * distribuer le document "carte d'identité du blob"
-* montrer le diaporama
-
+* les élèves peuvent lire ce document pendant que se met en place la suite
 
 ### Partie spécifique
 * indiquer le prénom des élèves sur la fiche "3-boites_prenoms" pour centraliser l'association n°boîtes et élèves
 
+# Séance 2
 
 ## Préparer les boîtes exploration pour la séance 2
 
