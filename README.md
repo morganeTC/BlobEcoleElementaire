@@ -171,7 +171,7 @@ Nous prévoyons 6 boîtes de blobs pour la séance, et 2 boîtes à garder (non 
 * distribuer le document *carte d'identité du blob*
 * les élèves peuvent lire ce document pendant que se met en place la suite
 
-### Partie spécifique
+### Partie spécifique à la séance 1
 * Passer au sein de petits groupes pour monter un blob, une boite avec de la gelose et (si possible) un sclérote. Bien expliquer que la gélose permet de "capturer" l'eau et se servir de la boite sans blob pour qu'ils visualise bien la gélose. Expliquer que le blob est jaune et sur l'avoine.
 
 <img src="images/17_demo.JPG" alt="boites" width="200"/>
@@ -188,8 +188,17 @@ Nous prévoyons 6 boîtes de blobs pour la séance, et 2 boîtes à garder (non 
 <img src="images/19_experience.jpg" alt="boites" width="200"/>
 
 * Vérifier que les boîtes sont correctes et fermées.
-* Demander aux enfants d'apporter leur boîte à la blobhouse. Attention, deux boîtes devront rester à la lumière, donc en dehors de la blobhouse.
-* Indiquer le prénom des élèves sur la fiche *3-boites_prenoms* pour centraliser l'association n°boîtes et élèves.
+* Demander aux enfants d'apporter leur boîte à la blobhouse, et fermer la blobhouse. Attention, deux boîtes devront rester à la lumière, donc en dehors de la blobhouse.
+
+<img src="images/20_blobhouse.JPG" alt="boites" width="200"/>
+<img src="images/21_hors_blobhouse.JPG" alt="boites" width="200"/>
+
+* Indiquer le prénom des élèves sur la fiche *2-Liste_boites* pour centraliser l'association n°boîtes et élèves.
+* Expliquer aux élèves comment les boîtes seront utilisées et comparées (notion de contrôle) en leur présentant oralement la fiche *3-Conditions_boites*.
+* Laisser croîte les blobs quelques heures et faire une première observation.
+* Le lendemain (au bout de 24h), obeserver de nouveau les blobs. Utiliser la fiche *7-Guide_pour_lire_les_résultats* pour bien interpréter les boîtes et utiliser le bon vocabulaire.
+
+
 
 # Séance 2
 
