@@ -15,6 +15,7 @@ Initiation à la démarche scientifique avec travaux pratique sur le blob. Séan
  - [Matériel](#item-two)
  - [Réveil des blobs](#item-three)
  - [Séance 1](#item-four)
+ - [Séance 2](#item-five)
 
 <a id="item-one"></a>
 ## Objectif et déroulement 
@@ -81,7 +82,7 @@ La séance 2 est prévue pour 14 élèves (7 binômes).
 #### séance 2
 * document "3ter-Conditions_boites_explo" en 1 exemplaire enseignant
 * document "6-CM2_fiche" en 1 exemplaire enseignant
-* document "9_protocole_CM2" en 14 exemplaires A4
+* document "9-protocole_CM2" en 14 exemplaires A4
 
 ### Matériel pour les séances
 
@@ -105,6 +106,7 @@ La séance 2 est prévue pour 14 élèves (7 binômes).
 * optionel : mouchoirs
 
 <img src="images/10_materiel_seance1.jpg" alt="boites" width="200"/>
+<img src="images/14_pots.JPG" alt="boites" width="200"/>
 <img src="images/9_loupe.jpg" alt="boites" width="200"/>
 
 
@@ -119,7 +121,9 @@ La séance 2 est prévue pour 14 élèves (7 binômes).
 
 <a id="item-three"></a>
 ## Réveil des blobs
-* 15 à 20 jours avant la séance, réveiller les sclérotes
+Cette partie est à réaliser si le blob est sous forme de sclérote . Sinon, aller à la fin de section et suivre les instructions **croissance du blob**.
+
+* 15 jours avant la séance, réveiller les sclérotes
 * Pour cela il faut préparer le lieu de vie du blob (= "couler des boîtes"). Pour préparer ce fond de gélose à couler dans la boîte :
 	-	Mettre 2g d’agar-agar (en général cela correspond à un sachet) dans 250 mL d’eau froide dans une casserole
 	-	Porter à ébullition
@@ -133,12 +137,13 @@ La séance 2 est prévue pour 14 élèves (7 binômes).
 
 <img src="images/2_reveil.jpg" alt="boites" width="200"/>
 
-
 * Placer les boites dans la blobhouse, à l'abri de la lumière et dans un endroit avec une température clémente (22° à 25°, notre souche s'est reveillée plus rapidement à vers 24° que vers 21-22°)
 
 <img src="images/3_blobhouse.jpg" alt="boites" width="200"/>
 
-* Le lendemain (ou le surlendemain si le blob n'a pas encore envahi toute l'avoine), poursuivre avec la phase de croissance du blob et augmentation du nombre de boîte (vidéo à partir de 3min20) : https://www.youtube.com/watch?v=OM3cuu0WrZo
+* Le lendemain (ou le surlendemain si le blob n'a pas encore envahi toute l'avoine), poursuivre avec la phase de **croissance du blob** et augmentation du nombre de boîte (vidéo à partir de 3min20) : https://www.youtube.com/watch?v=OM3cuu0WrZo
+
+<img src="images/13_blob_croissance.JPG" alt="boites" width="200"/>
 
 Des questions ? [la FAQ du CNRS](https://www.cnrs.fr/sites/default/files/download-file/BlobCNRS_FAQ_1.pdf)
 
@@ -147,27 +152,44 @@ Des questions ? [la FAQ du CNRS](https://www.cnrs.fr/sites/default/files/downloa
 # Séance 1
 
 ## Obtenir les boîtes de blob pour la séance 1
-Nous prévoyons 6 boîtes de blobs pour la séance, et 2 boîtes à garder (non utilisées pour la séance) afin de conserver le blob. Optionel : un blob en "exploration" (joli à observer).
+Nous prévoyons 6 boîtes de blobs pour la séance, et 2 boîtes à garder (non utilisées pour la séance, afin de conserver le blob). Optionel : un blob en "exploration" (joli à observer, voir la séance 2 pour les instructions à suivre).
 
 <img src="images/6_blob.png" alt="boites" width="200"/>
 
-==> ajouter des infos sur la croissance des blobs
 
 ## Préparer les boîtes de gélose pour la séance 1
 * préparer 14 boîtes
-* préparer 2 labyrinthes en utilisant des legos
+* préparer 2 labyrinthes en utilisant des legos (3 briques). Utiliser un verre pour tenir les legos pendant le coulage des boîtes.
 
-==> photo
+<img src="images/15_boites.JPG" alt="boites" width="200"/>
+<img src="images/16_lego.JPG" alt="boites" width="200"/>
 
 ## Déroulement de la séance 1
 
-### Partie commune
+### Partie commune avec la séance 2
 * présentation avec le diaporama (30min environ) ou présentation orale sans support 
-* distribuer le document "carte d'identité du blob"
+* distribuer le document *carte d'identité du blob*
 * les élèves peuvent lire ce document pendant que se met en place la suite
 
 ### Partie spécifique
-* indiquer le prénom des élèves sur la fiche "3-boites_prenoms" pour centraliser l'association n°boîtes et élèves
+* Passer au sein de petits groupes pour monter un blob, une boite avec de la gelose et (si possible) un sclérote. Bien expliquer que la gélose permet de "capturer" l'eau et se servir de la boite sans blob pour qu'ils visualise bien la gélose. Expliquer que le blob est jaune et sur l'avoine.
+
+<img src="images/17_demo.JPG" alt="boites" width="200"/>
+
+* Distribuer aux binômes : 1 boites avec gélose, un feutre, une des fiches *4-Schema_boîtes*. Leur demander d'écrire leurs prénoms sur la boîte ainsi que le n° de la boîte, indiquée en haut sur le schéma.
+
+<img src="images/18_ecriture.JPG" alt="boites" width="200"/>
+
+* Récupérer les feutres.
+* Distribuer aux binômes : 1 couteau/cuillère,  le matériel correspondant à la fiche (avoine, sel, chocolat) prévoir une cuillère ou un bouchon pour servir l'avoine.
+* Exppliquer aux binômes comment utiliser le schema de leur boîte pour réaliser l'expérience
+* Distribuer les blobs et laisser les élèves préparer leur boîte.
+
+<img src="images/19_experience.jpg" alt="boites" width="200"/>
+
+* Vérifier que les boîtes sont correctes et fermées.
+* Demander aux enfants d'apporter leur boîte à la blobhouse. Attention, deux boîtes devront rester à la lumière, donc en dehors de la blobhouse.
+* Indiquer le prénom des élèves sur la fiche *3-boites_prenoms* pour centraliser l'association n°boîtes et élèves.
 
 # Séance 2
 
