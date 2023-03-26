@@ -56,7 +56,9 @@ La séance 1 est prévue pour 30 élèves (15 binômes), avec une version des do
 La séance 2 est prévue pour 14 élèves (7 binômes).
 
 ### Pas encore familier avec le blob et son élevage ?
-Commencer par regarder cette courte vidéo par Audrey Dussutour (CNRS): [https://www.youtube.com/watch?v=uyVVknT0gpY](https://www.youtube.com/watch?v=uyVVknT0gpY)
+Voir la fiche [Comment élever son blob à la maison](documents/8-Comment élever son blob à la maison.pdf)
+
+La courte vidéo par Audrey Dussutour (CNRS) est ici: [https://www.youtube.com/watch?v=uyVVknT0gpY](https://www.youtube.com/watch?v=uyVVknT0gpY)
 
 <a id="item-two"></a>
 ## Matériel 
