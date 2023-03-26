@@ -72,7 +72,7 @@ Commencer par regarder cette courte vidéo par Audrey Dussutour (CNRS): [https:/
 
 
 ### A imprimer
-Les documents sont [ici](images/documents_a_imprimer)
+Les documents sont [ici](documents_a_imprimer)
 
 #### commun aux 2 séances
 * document "1-Carte identité" en 15 exemplaires (2 par page A4 pour distribuer des formats A5 aux élèves)
@@ -211,6 +211,7 @@ Transférer et nourrir les blobs sur une nouvelle boîte le soir précédent la 
 ### Comment se débarrasser du blob ?
 Vous pouvez en faire don, le jeter ou le rendormir. Voir les explications sur cette vidéo (à 9min46) : [vidéo](https://www.youtube.com/watch?v=uyVVknT0gpY)
 
+<a id="item-five"></a>
 # Séance 2
 
 ## Préparer les boîtes exploration pour la séance 2
