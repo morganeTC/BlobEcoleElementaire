@@ -70,6 +70,7 @@ Commencer par regarder cette courte vidéo par Audrey Dussutour (CNRS): [https:/
 * boite en carton (qui constituera la "blobhouse")
 * couteau (en plastique)
 * stylos de type feutre permanents fins pour écrire sur les boîtes
+* eau de Javel pour nettoyer les boîtes
 * optionel : thermomètre
 
 
@@ -127,7 +128,7 @@ Les documents sont accessibles [ici](documents_a_imprimer).
 
 <a id="item-three"></a>
 ## Réveil des blobs
-Cette partie est à réaliser si le blob est sous forme de sclérote . Sinon, aller à la fin de section et suivre les instructions **croissance du blob**.
+Cette partie est à réaliser si le blob est sous forme de sclérote. Sinon, aller à la fin de section et suivre les instructions **croissance du blob**.
 
 * 15 jours avant la séance, réveiller les sclérotes
 * Pour cela il faut préparer le lieu de vie du blob (= "couler des boîtes"). Pour préparer ce fond de gélose à couler dans la boîte :
@@ -151,10 +152,11 @@ Cette partie est à réaliser si le blob est sous forme de sclérote . Sinon, al
 
 <img src="images/13_blob_croissance.JPG" alt="boites" width="200"/>
 
+* Les boîtes peuvent être réutilisées après nettoyage à l'eau de Javel.
+
 Des questions ? [la FAQ du CNRS](https://www.cnrs.fr/sites/default/files/download-file/BlobCNRS_FAQ_1.pdf)
 
 <a id="item-four"></a>
-
 # Séance 1
 
 ## Obtenir les boîtes de blob pour la séance 1
