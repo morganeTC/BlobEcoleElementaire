@@ -9,6 +9,8 @@ Initiation à la démarche scientifique avec travaux pratique sur le blob. Séan
 > Licence : CC BY-NC 4.0 <br/>
 > Comment le citer : Thomas-Chollier, Bardiaux. 2023. BlobEcoleElementaire. https://github.com/morganeTC/BlobEcoleElementaire. <br/>
 > Séances effectuées à : Ecole élémentaire Velpeau, Antony, France.
+> 
+> Nous remercions chaleureusement les enseignantes qui nous ont fait confiance pour monter ces deux ateliers dans leurs classes.
 
 **Liens rapides:**
  - [Objectif et déroulement](#item-one)
@@ -72,7 +74,7 @@ Commencer par regarder cette courte vidéo par Audrey Dussutour (CNRS): [https:/
 
 
 ### A imprimer
-Les documents sont [ici](documents_a_imprimer)
+Les documents sont accessibles [ici](documents_a_imprimer).
 
 #### commun aux 2 séances
 * document "1-Carte identité" en 15 exemplaires (2 par page A4 pour distribuer des formats A5 aux élèves)
@@ -175,7 +177,7 @@ Transférer et nourrir les blobs sur une nouvelle boîte le soir précédent la 
 ### Partie commune avec la séance 2
 * présentation avec le diaporama (30min environ) ou présentation orale sans support 
 * distribuer le document *carte d'identité du blob*
-* les élèves peuvent lire ce document pendant que se met en place la suite
+* les élèves peuvent lire ce document pendant que se met en place la suite.
 
 ### Partie spécifique à la séance 1
 * Passer au sein de petits groupes pour montrer un blob, une boite avec de la gelose et (si possible) un sclérote. Bien expliquer que la gélose permet de "capturer" l'eau et se servir de la boite sans blob pour qu'ils visualisent bien la gélose. Expliquer que le blob est jaune et sur l'avoine.
@@ -188,12 +190,12 @@ Transférer et nourrir les blobs sur une nouvelle boîte le soir précédent la 
 
 * Récupérer les feutres.
 * Distribuer aux binômes : 1 couteau/cuillère,  le matériel correspondant à la fiche (avoine, sel, chocolat) prévoir une cuillère ou un bouchon pour servir l'avoine.
-* Expliquer aux binômes comment utiliser le schéma de leur boîte pour réaliser l'expérience
+* Expliquer aux binômes comment utiliser le schéma de leur boîte pour réaliser l'expérience.
 * Distribuer les blobs et laisser les élèves préparer leur boîte.
 
 <img src="images/19_experience.jpg" alt="boites" width="200"/>
 
-* Vérifier que les boîtes sont correctes et fermées. Récupérer le matériel restant. Déposer les couteaux/cuillères qui ont été en contact avec le blob dans un sac séparé, afin de les laver ultérieurement à l'eau de Javel.
+* Vérifier que les boîtes sont correctes par rapport au schéma, et fermées avec leur couvercle. Récupérer le matériel restant. Déposer les couteaux/cuillères qui ont été en contact avec le blob dans un sac séparé, afin de les laver ultérieurement à l'eau de Javel.
 * Demander aux enfants d'apporter leur boîte à la blobhouse, et fermer la blobhouse. Attention, deux boîtes devront rester à la lumière, donc en dehors de la blobhouse.
 
 <img src="images/20_blobhouse.JPG" alt="boites" width="200"/>
@@ -220,3 +222,5 @@ Vous pouvez en faire don, le jeter ou le rendormir. Voir les explications sur ce
 * à l'aide du bouchon extraire un rond de blob
 * le déposer bien au centre de la boite
 * refermer la boîte et la remettre dans la blobhouse
+
+
