@@ -5,7 +5,7 @@ Initiation à la démarche scientifique avec travaux pratique sur le blob. Séan
 
 > Auteurs : Morgane Thomas-Chollier (ENS-PSL), Benjamin Bardiaux (CNRS) <br/>
 > Créé le : 17/03/2023 <br/>
-> Dernière version : 2023-03-23 v1.0 <br/>
+> Dernière version : 2023-03-26 v1.0 <br/>
 > Licence : CC BY-NC 4.0 <br/>
 > Comment le citer : Thomas-Chollier, Bardiaux. 2023. BlobEcoleElementaire. https://github.com/morganeTC/BlobEcoleElementaire. <br/>
 > Séances effectuées à : Ecole élémentaire Velpeau, Antony, France.
@@ -53,6 +53,9 @@ Chaque séance dure 1h15. La  séance 2 peut avoir une partie commune plus court
 La séance 1 est prévue pour 30 élèves (15 binômes), avec une version des documents adaptée pour 6 binômes.
 La séance 2 est prévue pour 14 élèves (7 binômes).
 
+### Pas encore familier avec le blob et son élevage ?
+Commencer par regarder cette courte vidéo par Audrey Dussutour (CNRS): [https://www.youtube.com/watch?v=uyVVknT0gpY](https://www.youtube.com/watch?v=uyVVknT0gpY)
+
 <a id="item-two"></a>
 ## Matériel 
 
@@ -69,6 +72,7 @@ La séance 2 est prévue pour 14 élèves (7 binômes).
 
 
 ### A imprimer
+Les documents sont [ici](images/documents_a_imprimer)
 
 #### commun aux 2 séances
 * document "1-Carte identité" en 15 exemplaires (2 par page A4 pour distribuer des formats A5 aux élèves)
@@ -200,9 +204,12 @@ Transférer et nourrir les blobs sur une nouvelle boîte le soir précédent la 
 * Laisser croître les blobs quelques heures et faire une première observation.
 * Le lendemain (au bout de 24h), observer de nouveau les blobs. Utiliser la fiche *7-Guide_pour_lire_les_résultats* pour bien interpréter les boîtes et utiliser le bon vocabulaire.
 
-<img src="images/22_blob_seance1_1.JPG" alt="boites" width="200"/>
-<img src="images/23_blob_seance1_2.JPG" alt="boites" width="200"/>
-<img src="images/24_blob_seance1_3.JPG" alt="boites" width="200"/>
+<img src="images/22_blob_seance1_1.jpg" alt="boites" width="200"/>
+<img src="images/23_blob_seance1_2.jpg" alt="boites" width="200"/>
+<img src="images/24_blob_seance1_3.jpg" alt="boites" width="200"/>
+
+### Comment se débarrasser du blob ?
+Vous pouvez en faire don, le jeter ou le rendormir. Voir les explications sur cette vidéo (à 9min46) : [vidéo](https://www.youtube.com/watch?v=uyVVknT0gpY)
 
 # Séance 2
 
