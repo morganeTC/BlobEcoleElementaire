@@ -154,6 +154,8 @@ Des questions ? [la FAQ du CNRS](https://www.cnrs.fr/sites/default/files/downloa
 ## Obtenir les boîtes de blob pour la séance 1
 Nous prévoyons 6 boîtes de blobs pour la séance, et 2 boîtes à garder (non utilisées pour la séance, afin de conserver le blob). Optionel : un blob en "exploration" (joli à observer, voir la séance 2 pour les instructions à suivre).
 
+Transférer et nourrir les blobs sur une nouvelle boîte le soir précédent la séance, afin que le blob aie recouvert toute la boîte pour la séance.
+
 <img src="images/6_blob.png" alt="boites" width="200"/>
 
 
@@ -172,22 +174,22 @@ Nous prévoyons 6 boîtes de blobs pour la séance, et 2 boîtes à garder (non 
 * les élèves peuvent lire ce document pendant que se met en place la suite
 
 ### Partie spécifique à la séance 1
-* Passer au sein de petits groupes pour monter un blob, une boite avec de la gelose et (si possible) un sclérote. Bien expliquer que la gélose permet de "capturer" l'eau et se servir de la boite sans blob pour qu'ils visualise bien la gélose. Expliquer que le blob est jaune et sur l'avoine.
+* Passer au sein de petits groupes pour montrer un blob, une boite avec de la gelose et (si possible) un sclérote. Bien expliquer que la gélose permet de "capturer" l'eau et se servir de la boite sans blob pour qu'ils visualisent bien la gélose. Expliquer que le blob est jaune et sur l'avoine.
 
 <img src="images/17_demo.JPG" alt="boites" width="200"/>
 
-* Distribuer aux binômes : 1 boites avec gélose, un feutre, une des fiches *4-Schema_boîtes*. Leur demander d'écrire leurs prénoms sur la boîte ainsi que le n° de la boîte, indiquée en haut sur le schéma.
+* Distribuer aux binômes : 1 boite avec gélose, un feutre, une des fiches *4-Schema_boîtes*. Leur demander d'écrire leurs prénoms sur la boîte ainsi que le n° de la boîte, indiquée en haut sur le schéma.
 
 <img src="images/18_ecriture.JPG" alt="boites" width="200"/>
 
 * Récupérer les feutres.
 * Distribuer aux binômes : 1 couteau/cuillère,  le matériel correspondant à la fiche (avoine, sel, chocolat) prévoir une cuillère ou un bouchon pour servir l'avoine.
-* Exppliquer aux binômes comment utiliser le schema de leur boîte pour réaliser l'expérience
+* Expliquer aux binômes comment utiliser le schéma de leur boîte pour réaliser l'expérience
 * Distribuer les blobs et laisser les élèves préparer leur boîte.
 
 <img src="images/19_experience.jpg" alt="boites" width="200"/>
 
-* Vérifier que les boîtes sont correctes et fermées.
+* Vérifier que les boîtes sont correctes et fermées. Récupérer le matériel restant. Déposer les couteaux/cuillères qui ont été en contact avec le blob dans un sac séparé, afin de les laver ultérieurement à l'eau de Javel.
 * Demander aux enfants d'apporter leur boîte à la blobhouse, et fermer la blobhouse. Attention, deux boîtes devront rester à la lumière, donc en dehors de la blobhouse.
 
 <img src="images/20_blobhouse.JPG" alt="boites" width="200"/>
@@ -195,10 +197,12 @@ Nous prévoyons 6 boîtes de blobs pour la séance, et 2 boîtes à garder (non 
 
 * Indiquer le prénom des élèves sur la fiche *2-Liste_boites* pour centraliser l'association n°boîtes et élèves.
 * Expliquer aux élèves comment les boîtes seront utilisées et comparées (notion de contrôle) en leur présentant oralement la fiche *3-Conditions_boites*.
-* Laisser croîte les blobs quelques heures et faire une première observation.
-* Le lendemain (au bout de 24h), obeserver de nouveau les blobs. Utiliser la fiche *7-Guide_pour_lire_les_résultats* pour bien interpréter les boîtes et utiliser le bon vocabulaire.
+* Laisser croître les blobs quelques heures et faire une première observation.
+* Le lendemain (au bout de 24h), observer de nouveau les blobs. Utiliser la fiche *7-Guide_pour_lire_les_résultats* pour bien interpréter les boîtes et utiliser le bon vocabulaire.
 
-
+<img src="images/22_blob_seance1_1.JPG" alt="boites" width="200"/>
+<img src="images/23_blob_seance1_2.JPG" alt="boites" width="200"/>
+<img src="images/24_blob_seance1_3.JPG" alt="boites" width="200"/>
 
 # Séance 2
 
