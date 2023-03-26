@@ -8,7 +8,7 @@ Initiation à la démarche scientifique avec travaux pratique sur le blob. Séan
 > Dernière version : 2023-03-23 v1.0 <br/>
 > Licence : CC BY-NC 4.0 <br/>
 > Comment le citer : Thomas-Chollier, Bardiaux. 2023. BlobEcoleElementaire. https://github.com/morganeTC/BlobEcoleElementaire. <br/>
-> Séances effectuées à : Ecole Velpeau, Antony, France.
+> Séances effectuées à : Ecole élémentaire Velpeau, Antony, France.
 
 **Liens rapides:**
  - [Objectif et déroulement](#item-one)
@@ -58,12 +58,12 @@ La séance 2 est prévue pour 14 élèves (7 binômes).
 
 ### Matériel pour élever les blobs, en amont de la séance
 * sclérotes (blob séché) ou blob déjà réveillé
-* bôites de pétri
+* bôites de Petri
 * agar-agar (en grandes surfaces ou magasin bio)
 * flocons d'avoine (en grandes surfaces ou magasin de vrac, éviter les bio)
 * bouchon de bouteille d'eau ou de soda 
 * boite en carton (qui constituera la "blobhouse")
-* couteau
+* couteau (en plastique)
 * stylos de type feutre permanents fins pour écrire sur les boîtes
 * optionel : thermomètre
 
@@ -93,8 +93,8 @@ La séance 2 est prévue pour 14 élèves (7 binômes).
 <img src="images/8_TNI.jpg" alt="boites" width="200"/>
 
 ### Séance 1
-* feutres permanents fins (pour écrire sur les boîtes de pétri)
-* boîtes de pétri avec gélose déjà coulée (15 boites dont 2 labyrinthes en lego + 1 de démo)
+* feutres permanents fins (pour écrire sur les boîtes de Petri)
+* boîtes de Petri avec gélose déjà coulée (15 boites dont 2 labyrinthes en lego + 1 de démo)
 * boîtes avec blobs qui couvre la boîte (5 boites + 1 au cas où)
 * couteaux ou cuillères en bambou ou plastique pour couper le blob
 * sac en plastique ou récipient pour stocker les couteaux après utilisation
@@ -162,7 +162,7 @@ Nous prévoyons 6 boîtes de blobs pour la séance, et 2 boîtes à garder (non 
 * préparer 2 labyrinthes en utilisant des legos (3 briques). Utiliser un verre pour tenir les legos pendant le coulage des boîtes.
 
 <img src="images/15_boites.JPG" alt="boites" width="200"/>
-<img src="images/16_lego.JPG" alt="boites" width="200"/>
+<img src="images/16_lego.jpg" alt="boites" width="200"/>
 
 ## Déroulement de la séance 1
 
