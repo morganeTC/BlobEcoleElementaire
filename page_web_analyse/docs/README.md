@@ -1,6 +1,7 @@
 Cet outil a été initialement développé par [Laurent Knoll](https://github.com/verdi8) dans le cadre du projet de science participative [Derrière le blob, la recherche](https://www.cnrs.fr/fr/cnrsinfo/le-blob-et-la-demarche-scientifique) du CNRS. Les sources originales sur [GitHub](https://github.com/verdi8/blob-analysis-lab-demo).
 
-Ce site est une ***adaptation*** de l'outil pour des séances en école élémentaire, avec la possibilité notamment d'utiliser des tablettes tactiles et d'obtenir facilement des mesures simples sur la croissance du blob (périmètre et aire).
+Ce site est une ***adaptation*** de l'outil pour des séances en école élémentaire, avec la possibilité notamment d'utiliser des tablettes tactiles et d'obtenir facilement des mesures simples sur la croissance du blob (périmètre et aire). Une version en ligne est accessible ici [http://blob.bardiaux.fr]().
+
 
 # Mode opératoire
 ## Présentation
@@ -14,7 +15,6 @@ L'analyse se déroule en **5 étapes** :
 [4. Détourer le blob à main levée](#Étape-4-détourer-le-blob) <br>
 [5. Voir les résultats de mesures](#Étape-5-voir-les-résultats) <br>
 [6. Télécharger les fichiers de mesures](#Étape-6-optionnel-télécharger-les-résultats) <br>
-[6'. Fusionner les .csv ](#Étape-639-optionnel-fusionner-les-csv)
 
 Chaque étape est décrite dans la partie droite du _lab_. Il est possible de revenir à tout moment
 en arrière en cliquant sur le titre de l'étape.
