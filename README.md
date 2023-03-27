@@ -37,7 +37,7 @@ Les deux séances ont en commun la découverte du blob et de la recherche en bio
 * mettre en place un protocole expérimental simple pour répondre à cette question
 * mettre en place une expérience contrôle
 * observer la reaction/croissance du blob vis-à-vis de la substance
-* comparer à l'experience contrôle et en tirer des conlusions
+* comparer à l'experience contrôle et en tirer des conclusions
 
 <img src="images/5_protocoles.jpg" alt="boites" width="200"/>
 
@@ -47,7 +47,7 @@ Les deux séances ont en commun la découverte du blob et de la recherche en bio
 * mesure du périmètre/aire du blob via un site web dédié
 * ordonner les blobs selon leur périmètre
 * associer les blobs à leur condition de culture
-* tirer des conlusions
+* tirer des conclusions
 
 <img src="images/7_seance2.jpg" alt="boites" width="200"/>
 
@@ -65,7 +65,7 @@ La courte vidéo par Audrey Dussutour (CNRS) est ici: [https://www.youtube.com/w
 
 ### Matériel pour élever les blobs, en amont de la séance
 * sclérotes (blob séché) ou blob déjà réveillé
-* bôites de Petri
+* boîtes de Petri
 * agar-agar (en grandes surfaces ou magasin bio)
 * flocons d'avoine (en grandes surfaces ou magasin de vrac, éviter les bio)
 * bouchon de bouteille d'eau ou de soda 
@@ -97,6 +97,7 @@ Les documents sont accessibles [ici](documents_a_imprimer).
 ### Matériel pour les séances
 
 #### commun aux 2 séances
+* Un diaporama présentant le Blob et l'experience participative "Derrière le Blob, la recherche". Un exemple de diaporama se trouve dans la section [documents/](documents/)
 * idéalement, prévoir un tableau de type TNI ou un videoprojecteur pour diffuser le diaporama. A défaut, la présentation du blob peut se faire à l'oral sans support visuel.
 * 1 boîte en carton (qui constituera la blobhouse)
 
@@ -110,10 +111,10 @@ Les documents sont accessibles [ici](documents_a_imprimer).
 * sac en plastique ou récipient pour stocker les couteaux après utilisation
 * dans de petits contenants : avoine, chocolat, sel
 * petites cuillères pour se servir dans les contenants
-* optionel (mais pratique) : plateaux
-* optionel : feuille noir et loupe
-* optionel : sclérotes
-* optionel : mouchoirs
+* optionnel (mais pratique) : plateaux
+* optionnel : feuille noir et loupe
+* optionnel : sclérotes
+* optionnel : mouchoirs
 
 <img src="images/10_materiel_seance1.jpg" alt="boites" width="200"/>
 <img src="images/14_pots.JPG" alt="boites" width="200"/>
@@ -147,7 +148,7 @@ Cette partie est à réaliser si le blob est sous forme de sclérote. Sinon, all
 
 <img src="images/2_reveil.jpg" alt="boites" width="200"/>
 
-* Placer les boites dans la blobhouse, à l'abri de la lumière et dans un endroit avec une température clémente (22° à 25°, notre souche s'est reveillée plus rapidement à vers 24° que vers 21-22°)
+* Placer les boites dans la blobhouse, à l'abri de la lumière et dans un endroit avec une température clémente (22° à 25°, notre souche s'est réveillée plus rapidement à vers 24° que vers 21-22°)
 
 <img src="images/3_blobhouse.jpg" alt="boites" width="200"/>
 
@@ -163,7 +164,7 @@ Des questions ? [la FAQ du CNRS](https://www.cnrs.fr/sites/default/files/downloa
 # Séance 1
 
 ## Obtenir les boîtes de blob pour la séance 1
-Nous prévoyons 6 boîtes de blobs pour la séance, et 2 boîtes à garder (non utilisées pour la séance, afin de conserver le blob). Optionel : un blob en "exploration" (joli à observer, voir la séance 2 pour les instructions à suivre).
+Nous prévoyons 6 boîtes de blobs pour la séance, et 2 boîtes à garder (non utilisées pour la séance, afin de conserver le blob). Optionnel : un blob en "exploration" (joli à observer, voir la séance 2 pour les instructions à suivre).
 
 Transférer et nourrir les blobs sur une nouvelle boîte le soir précédent la séance, afin que le blob aie recouvert toute la boîte pour la séance.
 
