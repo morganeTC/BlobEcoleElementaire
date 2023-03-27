@@ -2,6 +2,8 @@ Cet outil a été initialement développé par [Laurent Knoll](https://github.co
 
 Ce site est une ***adaptation*** de l'outil pour des séances en école élémentaire, avec la possibilité notamment d'utiliser des tablettes tactiles et d'obtenir facilement des mesures simples sur la croissance du blob (périmètre et aire). Une version en ligne est accessible ici [http://blob.bardiaux.fr]().
 
+Les sources se trouvent ici [https://gitlab.pasteur.fr/bardiaux/blob-analysis-lab-ecole]().
+
 
 # Mode opératoire
 ## Présentation
