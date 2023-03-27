@@ -56,7 +56,7 @@ La séance 1 est prévue pour 30 élèves (15 binômes), avec une version des do
 La séance 2 est prévue pour 14 élèves (7 binômes).
 
 ### Pas encore familier avec le blob et son élevage ?
-Voir la fiche [Comment élever son blob à la maison](documents/8-Elever_blob.pdf)
+Voir la fiche [Comment élever son blob à la maison](documents/8-Elever_blob.pdf).
 
 La courte vidéo par Audrey Dussutour (CNRS) est ici: [https://www.youtube.com/watch?v=uyVVknT0gpY](https://www.youtube.com/watch?v=uyVVknT0gpY)
 
@@ -73,6 +73,7 @@ La courte vidéo par Audrey Dussutour (CNRS) est ici: [https://www.youtube.com/w
 * couteau (en plastique)
 * stylos de type feutre permanents fins pour écrire sur les boîtes
 * eau de Javel pour nettoyer les boîtes
+* sel (pour préparer la séance 2)
 * optionel : thermomètre
 
 
@@ -90,8 +91,8 @@ Les documents sont accessibles [ici](documents_a_imprimer).
 
 #### séance 2
 * document "3ter-Conditions_boites_explo" en 1 exemplaire enseignant
-* document "6-CM2_fiche" en 1 exemplaire enseignant
-* document "9-protocole_CM2" en 14 exemplaires A4
+* document "6-CM2_fiche" en 14 exemplaires A4
+* document "9-protocole_CM2" en 7 exemplaires A4
 
 ### Matériel pour les séances
 
@@ -136,7 +137,7 @@ Cette partie est à réaliser si le blob est sous forme de sclérote. Sinon, all
 * Pour cela il faut préparer le lieu de vie du blob (= "couler des boîtes"). Pour préparer ce fond de gélose à couler dans la boîte :
 	-	Mettre 2g d’agar-agar (en général cela correspond à un sachet) dans 250 mL d’eau froide dans une casserole
 	-	Porter à ébullition
-	-	Couler dans les boites (8) pour avoir une hauteur d'environ 3 mm (soit une petite louche)
+	-	Couler dans les boites (environ 10) pour avoir une hauteur d'environ 3 mm (soit une petite louche)
 	-	Remettre le couvercle
 	-	Après 15 min de refroidissement, la gélose sera devenue solide. Mettre les boîtes au réfrigérateur. Elles se gardent 5 jours au réfrigérateur (sans blob dessus).
 
@@ -206,7 +207,7 @@ Transférer et nourrir les blobs sur une nouvelle boîte le soir précédent la 
 <img src="images/21_hors_blobhouse.JPG" alt="boites" width="200"/>
 
 * Indiquer le prénom des élèves sur la fiche *2-Liste_boites* pour centraliser l'association n°boîtes et élèves.
-* Expliquer aux élèves comment les boîtes seront utilisées et comparées (notion de contrôle) en leur présentant oralement la fiche *3-Conditions_boites*.
+* Expliquer aux élèves comment les boîtes seront utilisées et comparées (notion de contrôle) en leur présentant oralement la fiche *3-Conditions_boites*. Si manque de temps, cette étape peut se faire plus tard lors de l'observation des blobs.
 * Laisser croître les blobs quelques heures et faire une première observation.
 * Le lendemain (au bout de 24h), observer de nouveau les blobs. Utiliser la fiche *7-Guide_pour_lire_les_résultats* pour bien interpréter les boîtes et utiliser le bon vocabulaire.
 
@@ -220,11 +221,44 @@ Vous pouvez en faire don, le jeter ou le rendormir. Voir les explications sur ce
 <a id="item-five"></a>
 # Séance 2
 
-## Préparer les boîtes exploration pour la séance 2
+## Obtenir les boîtes de blob pour la séance 2 (boîtes "exploration")
+* Préparer à l'avance 8 boîtes avec gélose
+* Prévoir 2 boîtes de blob
 
 18h avant la séance, préparer 4 boîtes "exploration" à partir d'une boîte de blob:
-* à l'aide du bouchon extraire un rond de blob
-* le déposer bien au centre de la boite
-* refermer la boîte et la remettre dans la blobhouse
 
+* à l'aide du bouchon extraire 4 ronds de blob
+* les déposer bien au centre de chaque boîte avec gélose
+* Sur 2 boîtes, déposer du sel près du bord de la boîte
+* refermer la boîte 
+* Noter au feutre la lettre de la boîte et sa condition (par exemple "18h sans sel". Utiliser le document *3ter-Conditions_boites_explo* pour connaître la lettre de la boîte.
+* remettre les boîtes dans la blobhouse
 
+<img src="images/25_bouchon.jpg" alt="boites" width="200"/>
+<img src="images/26_4ronds.jpg" alt="boites" width="200"/>
+<img src="images/27_centre.jpg" alt="boites" width="200"/>
+<img src="images/28_boite_fermee.jpg" alt="boites" width="200"/>
+<img src="images/29_sel.jpg" alt="boites" width="200"/>
+
+6h avant la séance, préparer 4 autres boîtes "exploration" à partir du second blob, en suivant les mêmes étapes.
+
+La séance 2 a donc 8 boîtes "exploration", préparées à des temps différents. Si besoin, les temps peuvent être adaptés en fonction de l'heure prévue pour la séance (ici, la séance avait lieu à 14h).
+
+## Préparer les tablettes
+* sortir 7 tablettes et s'assurer qu'elles sont chargées et connectées à internet (éventuellement, prévoir une connection partagée via un téléphone en 4G).
+* Sur chaque tablette, ouvrir un navigateur web et entrer l'adresse du site web prévu pour l'analyse.
+
+## Déroulement de la séance 2
+
+### Partie commune avec la séance 1
+=> cette partie est à réaliser si les élèves ont fait la séance 1 l'année précédente. Si les élèves font les séances 1 et 2 proche dans le temps, il n'est pas nécéssaire de répéter cette partie commune.
+* présentation avec le diaporama (30min environ) ou présentation orale sans support 
+* distribuer le document *carte d'identité du blob*
+* les élèves peuvent lire ce document pendant que se met en place la suite.
+
+### Partie spécifique à la séance 2
+* Distribuer les documents *6-CM2_fiche* (1 par élève) et *9_protocole_CM2* (1 par binôme).
+* Distribuer une tablette par binôme.
+* Les élèves  peuvent suivre le protocole du document en autnomoie, ou bien montrer aux élèves une première fois le protocole. Attention à bien disposer la règle !
+* Les élèves vont remplir la fiche au fur et à mesure qu'ils prennent en photo 4 boîtes sur les 8.
+* Les élèves terminent ensuite l'exercice de comparaison des valeurs mesurées.
