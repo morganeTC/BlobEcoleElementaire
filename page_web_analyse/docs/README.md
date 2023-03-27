@@ -1,8 +1,8 @@
 Cet outil a été initialement développé par [Laurent Knoll](https://github.com/verdi8) dans le cadre du projet de science participative [Derrière le blob, la recherche](https://www.cnrs.fr/fr/cnrsinfo/le-blob-et-la-demarche-scientifique) du CNRS. Les sources originales sur [GitHub](https://github.com/verdi8/blob-analysis-lab-demo).
 
-Ce site est une ***adaptation*** de l'outil pour des séances en école élémentaire, avec la possibilité notamment d'utiliser des tablettes tactiles et d'obtenir facilement des mesures simples sur la croissance du blob (périmètre et aire). Une version en ligne est accessible ici [http://blob.bardiaux.fr]().
+Ce site est une ***adaptation*** de l'outil pour des séances en école élémentaire, avec la possibilité notamment d'utiliser des tablettes tactiles et d'obtenir facilement des mesures simples sur la croissance du blob (périmètre et aire). Une version en ligne est accessible ici [http://blob.bardiaux.fr](http://blob.bardiaux.fr).
 
-Les sources se trouvent ici [https://gitlab.pasteur.fr/bardiaux/blob-analysis-lab-ecole]().
+Les sources se trouvent ici [https://gitlab.pasteur.fr/bardiaux/blob-analysis-lab-ecole](https://gitlab.pasteur.fr/bardiaux/blob-analysis-lab-ecole).
 
 
 # Mode opératoire
