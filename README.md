@@ -230,7 +230,7 @@ Vous pouvez en faire don, le jeter ou le rendormir. Voir les explications sur ce
 
 * à l'aide du bouchon extraire 4 ronds de blob
 * les déposer bien au centre de chaque boîte avec gélose
-* Sur 2 boîtes, déposer du sel près du bord de la boîte
+* Sur 2 boîtes, déposer du sel près du bord sur le pourtour de la boîte
 * refermer la boîte 
 * Noter au feutre la lettre de la boîte et sa condition (par exemple "18h sans sel". Utiliser le document *3ter-Conditions_boites_explo* pour connaître la lettre de la boîte.
 * remettre les boîtes dans la blobhouse
@@ -249,6 +249,8 @@ La séance 2 a donc 8 boîtes "exploration", préparées à des temps différent
 * sortir 7 tablettes et s'assurer qu'elles sont chargées et connectées à internet (éventuellement, prévoir une connection partagée via un téléphone en 4G).
 * Sur chaque tablette, ouvrir un navigateur web et entrer l'adresse du site web prévu pour l'analyse.
 
+> Nous avons utilisé [http://blob.bardiaux.fr](http://blob.bardiaux.fr) mais vous pouvez l'installer sur votre propre serveur en installant le site à partir des fichiers dans [page_web_analyse/](page_web_analyse/).
+
 ## Déroulement de la séance 2
 
 ### Partie commune avec la séance 1
@@ -260,6 +262,6 @@ La séance 2 a donc 8 boîtes "exploration", préparées à des temps différent
 ### Partie spécifique à la séance 2
 * Distribuer les documents *6-CM2_fiche* (1 par élève) et *9_protocole_CM2* (1 par binôme).
 * Distribuer une tablette par binôme.
-* Les élèves  peuvent suivre le protocole du document en autnomoie, ou bien montrer aux élèves une première fois le protocole. Attention à bien disposer la règle !
+* Les élèves  peuvent suivre le protocole du document en autonomie, ou bien montrer aux élèves une première fois le protocole. :warning: Attention à bien disposer la règle !
 * Les élèves vont remplir la fiche au fur et à mesure qu'ils prennent en photo 4 boîtes sur les 8.
 * Les élèves terminent ensuite l'exercice de comparaison des valeurs mesurées.
