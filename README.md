@@ -4,7 +4,7 @@ Initiation à la démarche scientifique avec travaux pratique sur le blob. Séan
 <img src="images/4_classe.jpg" alt="boites" width="200"/>
 
 > Auteurs : Morgane Thomas-Chollier (ENS-PSL), Benjamin Bardiaux (CNRS) <br/>
-> Créé le : 17/03/2023 <br/>
+> Créé le : 02/06/2022 <br/>
 > Dernière version : 2023-03-26 v1.0 <br/>
 > Licence : CC BY-NC 4.0 <br/>
 > Comment le citer : Thomas-Chollier, Bardiaux. 2023. BlobEcoleElementaire. https://github.com/morganeTC/BlobEcoleElementaire. <br/>
